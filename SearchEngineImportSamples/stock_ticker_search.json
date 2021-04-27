@@ -1,1 +1,51 @@
-[{"Engines":[{"Id":"0.3010229477207780.3852975037041628","name":"Morningstar","SearchUrl":"https://www.morningstar.com/stocks/xnys/searchcenter","SearchEngineName":"Morningstar","IconUrl":"https://www.morningstar.com/favicon.ico"},{"Id":"0.77102624382839060.8963673425517267","name":"FINRA","SearchUrl":"https://finra-markets.morningstar.com/MarketData/EquityOptions/detail.jsp?query=searchcenter","SearchEngineName":"FINRA","IconUrl":"https://www.finra.org/themes/custom/finra_bootstrap_sass/favicon.ico"},{"Id":"0.73099763469341150.3125854797531862","name":"finviz","SearchUrl":"https://finviz.com/quote.ashx?t=searchcenter","SearchEngineName":"finviz","IconUrl":"https://finviz.com/favicon.ico"},{"Id":"0.80682005252405190.40365099620928513","name":"SEC EDGAR","SearchUrl":"https://www.sec.gov/edgar/search/#/dateRange=all&entityName=searchcenter","SearchEngineName":"SEC EDGAR","IconUrl":"https://www.sec.gov/favicon.ico"},{"Id":"0.430254194876615870.652614436289138","name":"WhaleWisdom","SearchUrl":"https://whalewisdom.com/stock/searchcenter","SearchEngineName":"WhaleWisdom","IconUrl":"https://whalewisdom.com/favicon.ico"},{"Id":"0.61062208814337840.18687439923651783","name":"Moody's","SearchUrl":"https://www.moodys.com/search?keyword=searchcenter","SearchEngineName":"Moody's","IconUrl":"https://www.moodys.com/favicon.ico"},{"Id":"0.19339436386627740.8630751085715469","name":"StockCharts","SearchUrl":"https://stockcharts.com/h-sc/ui?s=searchcenter","SearchEngineName":"StockCharts","IconUrl":"https://stockcharts.com/favicon.ico"},{"Id":"0.10008418044775080.8108016303698433","name":"OpenInsider","SearchUrl":"http://openinsider.com/search?q=searchcenter","SearchEngineName":"OpenInsider","IconUrl":"http://openinsider.com/favicon.ico"},{"Id":"0.00085149249941718350.7182084883017594","name":"MarketWatch","SearchUrl":"https://www.marketwatch.com/investing/stock/searchcenter","SearchEngineName":"MarketWatch","IconUrl":"https://www.marketwatch.com/favicon.ico"},{"Id":"0.72862184673046640.4250001169689075","name":"Yahoo Finance","SearchUrl":"https://finance.yahoo.com/quote/searchcenter","SearchEngineName":"Yahoo Finance","IconUrl":"https://finance.yahoo.com/favicon.ico"},{"Id":"0.181113120210725230.9442244410332923","name":"Seeking Alpha","SearchUrl":"https://seekingalpha.com/search?q=searchcenter","SearchEngineName":"Seeking Alpha","IconUrl":"https://seekingalpha.com/samw/favicon.ico"},{"Id":"0.98615636097574890.11047924380608154","name":"Twitter","SearchUrl":"http://twitter.com/search?q=searchcenter","SearchEngineName":"Twitter","IconUrl":"https://twitter.com/favicon.ico"},{"Id":"0.94097317050737920.5717930192089438","name":"Wikipedia","SearchUrl":"https://en.wikipedia.org/w/index.php?search=searchcenter","SearchEngineName":"Wikipedia","IconUrl":"https://en.wikipedia.org/favicon.ico"},{"Id":"0.53252183404754590.5733068627131317","name":"Google","SearchUrl":"https://www.google.com/search?q=searchcenter","SearchEngineName":"Google","IconUrl":"https://google.com/favicon.ico"}],"Id":"0.83169211647190360.5165171737814345","name":"@All","IconUrl":"chrome-extension://ndfplmdnbnefomnjiknbpejdceedhdmf/images/folder.png"},{"Id":"0.75051282100129480.3637938572866799","name":"Google","SearchUrl":"https://www.google.com/search?q=searchcenter","SearchEngineName":"Google","IconUrl":"https://google.com/favicon.ico"},{"Id":"0.75262193273301750.9992734651793893","name":"Wikipedia","SearchUrl":"https://en.wikipedia.org/w/index.php?search=searchcenter","SearchEngineName":"Wikipedia","IconUrl":"https://en.wikipedia.org/favicon.ico"},{"Id":"0.86129592499908520.3314017613796383","name":"Twitter","SearchUrl":"http://twitter.com/search?q=searchcenter","SearchEngineName":"Twitter","IconUrl":"https://twitter.com/favicon.ico"},{"Id":"0.75471023173243150.6767574813525157","name":"Seeking Alpha","SearchUrl":"https://seekingalpha.com/search?q=searchcenter","SearchEngineName":"Seeking Alpha","IconUrl":"https://seekingalpha.com/samw/favicon.ico"},{"Id":"0.72137687571986490.7583805135053479","name":"Yahoo Finance","SearchUrl":"https://finance.yahoo.com/quote/searchcenter","SearchEngineName":"Yahoo Finance","IconUrl":"https://finance.yahoo.com/favicon.ico"},{"Id":"0.89307291720125390.4710550746282771","name":"MarketWatch","SearchUrl":"https://www.marketwatch.com/investing/stock/searchcenter","SearchEngineName":"MarketWatch","IconUrl":"https://www.marketwatch.com/favicon.ico"},{"Id":"0.379553435889380840.8049558213331249","name":"OpenInsider","SearchUrl":"http://openinsider.com/search?q=searchcenter","SearchEngineName":"OpenInsider","IconUrl":"http://openinsider.com/favicon.ico"},{"Id":"0.274068702512452630.4691609070330398","name":"StockCharts","SearchUrl":"https://stockcharts.com/h-sc/ui?s=searchcenter","SearchEngineName":"StockCharts","IconUrl":"https://stockcharts.com/favicon.ico"},{"Id":"0.79519722389637270.09194692885399136","name":"Moody's","SearchUrl":"https://www.moodys.com/search?keyword=searchcenter","SearchEngineName":"Moody's","IconUrl":"https://www.moodys.com/favicon.ico"},{"Id":"0.69480817661180240.6473026293730628","name":"WhaleWisdom","SearchUrl":"https://whalewisdom.com/stock/searchcenter","SearchEngineName":"WhaleWisdom","IconUrl":"https://whalewisdom.com/favicon.ico"},{"Id":"0.167191176977800060.28927573815795604","name":"SEC EDGAR","SearchUrl":"https://www.sec.gov/edgar/search/#/dateRange=all&entityName=searchcenter","SearchEngineName":"SEC EDGAR","IconUrl":"https://www.sec.gov/favicon.ico"},{"Id":"0.93738336079804150.8894216149434644","name":"finviz","SearchUrl":"https://finviz.com/quote.ashx?t=searchcenter","SearchEngineName":"finviz","IconUrl":"https://finviz.com/favicon.ico"},{"Id":"0.092406405104254350.5026420898421715","name":"FINRA","SearchUrl":"https://finra-markets.morningstar.com/MarketData/EquityOptions/detail.jsp?query=searchcenter","SearchEngineName":"FINRA","IconUrl":"https://www.finra.org/themes/custom/finra_bootstrap_sass/favicon.ico"},{"Id":"0.80982808412679060.6009089751911334","name":"Morningstar","SearchUrl":"https://www.morningstar.com/stocks/xnys/searchcenter","SearchEngineName":"Morningstar","IconUrl":"https://www.morningstar.com/favicon.ico"}]
+[
+  {
+    "SearchEngineName": "Google",
+    "IconUrl": "http://google.com/favicon.ico",
+    "SearchUrl": "http://www.google.com/search?sourceid=chrome&ie=UTF-8&q=majesticsearch",
+    "updateUrl": "/xml/openSearch/www.google.com.xml",
+    "suggestUrl": "http://clients1.google.com/complete/search?client=chrome&hl=en-GB&q={searchTerms}"
+  },
+  {
+    "SearchEngineName": "Wikipedia",
+    "IconUrl": "http://en.wikipedia.org/favicon.ico",
+    "SearchUrl": "http://en.wikipedia.org/w/index.php?title=Special:Search&search=majesticsearch",
+    "updateUrl": "/xml/openSearch/en.wikipedia.org.xml"
+  },
+  {
+    "SearchEngineName": "Dictionary",
+    "IconUrl": "http://google.com/favicon.ico",
+    "SearchUrl": "http://www.google.com/dictionary?langpair=en|en&q=majesticsearch&hl=en&aq=f",
+    "updateUrl": "/xml/openSearch/dictionary.google.com.xml"
+  },
+  {
+    "SearchEngineName": "imdb",
+    "IconUrl": "http://imdb.com/favicon.ico",
+    "SearchUrl": "http://www.imdb.com/find?s=all&q=majesticsearch",
+    "updateUrl": "/xml/openSearch/www.imdb.com.xml"
+  },
+  {
+    "SearchEngineName": "Amazon",
+    "IconUrl": "http://www.amazon.com/favicon.ico",
+    "SearchUrl": "http://www.amazon.com/s/ref=nb_ss?url=search-alias%3Daps&field-keywords=majesticsearch&x=0&y=0",
+    "updateUrl": "/xml/openSearch/www.amazon.com.xml"
+  },
+  {
+    "SearchEngineName": "Thesaurus",
+    "IconUrl": "http://cache.lexico.com/g/t/favicon.ico",
+    "SearchUrl": "http://thesaurus.reference.com/browse/majesticsearch",
+    "updateUrl": "/xml/openSearch/www.thesaurus.com.xml"
+  },
+  {
+    "SearchEngineName": "eBay",
+    "IconUrl": "http://www.ebay.com/favicon.ico",
+    "SearchUrl": "http://shop.ebay.com/?_from=R40&_trksid=p3907.m38.l1313&_nkw=majesticsearch&_sacat=See-All-Categories",
+    "updateUrl": "/xml/openSearch/www.ebay.com.xml"
+  },
+  {
+    "SearchEngineName": "Twitter",
+    "IconUrl": "http://twitter.com/favicon.ico",
+    "SearchUrl": "http://twitter.com/search?q=majesticsearch",
+    "updateUrl": "/xml/openSearch/www.twitter.com.xml"
+  }
+]
